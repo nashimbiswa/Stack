@@ -37,6 +37,5 @@ int main()
     // cout<<s.size()<<endl;
     // cout<<s.peek()<<endl;
     cout<<s.isEmpty()<<endl;
-  
     return 0; 
 }
